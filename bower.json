@@ -25,12 +25,18 @@
     "paper-card": "PolymerElements/paper-card#^1.1.6",
     "google-webfont-loader": "printminion/google-webfont-loader#^1.6.27",
     "lrndesign-dialog": "LRNWebComponents/lrndesign-dialog#^0.0.1",
-    "paper-menu-button": "PolymerElements/paper-menu-button#^1.5.2"
+    "paper-menu-button": "PolymerElements/paper-menu-button#^1.5.2",
+    "lrndesign-gallerycard": "LRNWebComponents/lrndesign-gallerycard"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
     "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
     "web-component-tester": "^4.0.0",
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "resolutions": {
+    "hax-editbar": "^0.0.9",
+    "hax-editable": "^0.0.3",
+    "hax-behaviors": "^0.0.13"
   }
 }
