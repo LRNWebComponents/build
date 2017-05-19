@@ -35116,7 +35116,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
           </div>
         </div>
       </lrndesign-dialog>
-      <iron-ajax params="{}" id="ajaxRequest" url="{{url}}" handle-as="json" last-reponse="{{itemResponse}}" on-response="_handleReturnedData"></iron-ajax>
+      <iron-ajax params="{}" id="ajaxRequest" url="{{url}}" handle-as="json" on-response="_handleReturnedData"></iron-ajax>
   </template>
 
   <script>
@@ -35232,7 +35232,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
          * Property to hold data returned from an endpoint
          */
         itemResponse: {
-          type: Object,
+          type: Object
         }
       },
       /**
@@ -35240,7 +35240,8 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
        * the innerHTML of the response.
        */
       _handleReturnedData: function(e) {
-        this.$$('#dialogResponse').innerHTML = this.itemResponse.data;
+        this.itemResponse = event.detail.response.data;
+        this.$$('#dialogResponse').innerHTML = this.itemResponse;
       },
       _mouseEnter: function(e) {
         this.elevation += 1;
