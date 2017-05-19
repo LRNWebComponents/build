@@ -26,7 +26,7 @@
     "google-webfont-loader": "printminion/google-webfont-loader#^1.6.27",
     "lrndesign-dialog": "LRNWebComponents/lrndesign-dialog#^0.0.1",
     "paper-menu-button": "PolymerElements/paper-menu-button#^1.5.2",
-    "lrndesign-gallerycard": "LRNWebComponents/lrndesign-gallerycard"
+    "lrndesign-gallerycard": "LRNWebcomponents/lrndesign-gallerycard#^0.0.2"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
