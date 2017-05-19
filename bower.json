@@ -38,6 +38,7 @@
     "hax-editbar": "^0.0.9",
     "hax-editable": "^0.0.3",
     "hax-behaviors": "^0.0.13",
-    "lrndesign-gallerycard": "^0.0.4"
+    "lrndesign-gallerycard": "^0.0.4",
+    "paper-dialog": "^1.0.1"
   }
 }
