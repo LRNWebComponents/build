@@ -3,5 +3,16 @@
     "rules": [
       "polymer-2-hybrid"
     ]
-  }
+  },
+  "builds" : [{
+    "js": {
+      "minify": true,
+      "compile": true
+    },
+    "css": {"minify": true},
+    "html":{"minify": true},
+    "insertPrefectLinks": true,
+    "addServiceWorker": true,
+    "bundle": true
+  }]
 }
