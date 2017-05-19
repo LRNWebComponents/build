@@ -2,7 +2,7 @@
   "name": "build",
   "main": "index.html",
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.4.0",
+    "polymer": "Polymer/polymer#^1.9.1",
     "lrn-icons": "LRNWebcomponents/lrn-icons#^1.0.10",
     "lrn-icon": "LRNWebComponents/lrn-icon#^1.0.0",
     "lrndesign-card": "LRNWebComponents/lrndesign-card",
@@ -26,7 +26,8 @@
     "google-webfont-loader": "printminion/google-webfont-loader#^1.6.27",
     "lrndesign-dialog": "LRNWebComponents/lrndesign-dialog#^0.0.1",
     "paper-menu-button": "PolymerElements/paper-menu-button#^1.5.2",
-    "lrndesign-gallerycard": "LRNWebcomponents/lrndesign-gallerycard#^0.0.6"
+    "lrndesign-gallerycard": "LRNWebcomponents/lrndesign-gallerycard#^0.0.7",
+    "hax-behaviors": "LRNWebComponents/hax-behaviors#^0.0.13"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
@@ -35,6 +36,9 @@
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
   },
   "resolutions": {
-    "paper-dialog": "^1.0.1"
+    "paper-dialog": "^1.0.1",
+    "hax-editbar": "0.0.9",
+    "hax-behaviors": "^0.0.13",
+    "hax-editable": "0.0.3"
   }
 }
