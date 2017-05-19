@@ -3,7 +3,7 @@
   "main": "index.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^1.4.0",
-    "lrn-icons": "LRNWebcomponents/lrn-icons#^1.0.7",
+    "lrn-icons": "LRNWebcomponents/lrn-icons#^1.0.9",
     "lrn-icon": "LRNWebComponents/lrn-icon#^1.0.0",
     "lrndesign-card": "LRNWebComponents/lrndesign-card",
     "lrndesign-drawer": "LRNWebComponents/lrndesign-drawer",
