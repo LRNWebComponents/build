@@ -9,7 +9,7 @@
     "lrndesign-drawer": "LRNWebComponents/lrndesign-drawer",
     "contentsequencer-components": "LRNWebcomponents/lrndesign-contentsequencer#^0.0.1",
     "lrndesign-blockquote": "LRNWebcomponents/lrndesign-blockquote#^0.0.1",
-    "lrndesign-contentsequencer": "LRNWebcomponents/lrndesign-contentsequencer#^0.0.2",
+    "lrndesign-contentsequencer": "LRNWebComponents/lrndesign-contentsequencer#^0.0.2",
     "lrndesign-panelcard": "LRNWebComponents/lrndesign-panelcard#^0.0.12",
     "lrn-vocab": "LRNWebComponents/lrn-vocab#^0.0.8",
     "lrn-aside": "LRNWebComponents/lrn-aside#^0.0.8",
@@ -26,7 +26,17 @@
     "google-webfont-loader": "printminion/google-webfont-loader#^1.6.27",
     "lrndesign-dialog": "LRNWebComponents/lrndesign-dialog#^0.0.1",
     "paper-menu-button": "PolymerElements/paper-menu-button#^1.5.2",
-    "hax-behaviors": "LRNWebComponents/hax-behaviors#^0.0.13"
+    "hax-behaviors": "LRNWebComponents/hax-behaviors#^0.0.13",
+    "paper-dialog-scrollable": "PolymerElements/paper-dialog-scrollable#^2.0.0",
+    "neon-animation": "PolymerElements/neon-animation#^2.0.0",
+    "iron-scroll-threshold": "PolymerElements/iron-scroll-threshold#^2.0.0",
+    "wikipedia-query": "LRNWebComponents/wikipedia-query#^0.0.1",
+    "lrndesign-abbreviation": "LRNWebComponents/lrndesign-abbreviation#^0.0.2",
+    "lrndesign-buttondialog": "LRNWebComponents/lrndesign-buttondialog#^0.0.1",
+    "lrndesign-comment": "LRNWebComponents/lrndesign-comment#^0.0.1",
+    "lrndesign-contactcard": "LRNWebComponents/lrndesign-contactcard#^0.0.1",
+    "lrndesign-contentblock": "LRNWebComponents/lrndesign-contentblock#^0.0.3",
+    "lrndesign-paperstack": "LRNWebComponents/lrndesign-paperstack#^0.0.1"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
@@ -38,6 +48,9 @@
     "paper-dialog": "^1.0.1",
     "hax-editbar": "0.0.9",
     "hax-behaviors": "^0.0.13",
-    "hax-editable": "0.0.3"
+    "hax-editable": "0.0.3",
+    "lrndesign-avatar": "^0.0.3",
+    "paper-tooltip": "^1.1.4",
+    "lrndesign-contentblock": "^0.0.3"
   }
 }
