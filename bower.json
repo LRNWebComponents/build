@@ -36,11 +36,13 @@
     "lrndesign-comment": "LRNWebComponents/lrndesign-comment#^0.0.3",
     "lrndesign-contactcard": "LRNWebComponents/lrndesign-contactcard#^0.0.2",
     "lrndesign-contentblock": "LRNWebComponents/lrndesign-contentblock#^0.0.3",
-    "lrndesign-paperstack": "LRNWebComponents/lrndesign-paperstack#^0.0.1",
+    "lrndesign-paperstack": "LRNWebComponents/lrndesign-paperstack#^0.0.2",
     "lrn-assignment": "LRNWebComponents/lrn-assignment#^0.0.6",
     "paper-icon-button": "PolymerElements/paper-icon-button#^2.0.0",
     "hax-editbar": "LRNWebComponents/hax-editbar#^0.1.0",
-    "vaadin-upload": "vaadin/vaadin-upload#^1.1.4"
+    "vaadin-upload": "vaadin/vaadin-upload#^1.1.4",
+    "lrnapp-fab-menu": "LRNWebComponents/lrnapp-fab-menu#^0.0.1",
+    "csv-render": "LRNWebComponents/csv-render#^0.0.3"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
