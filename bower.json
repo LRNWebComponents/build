@@ -42,7 +42,8 @@
     "hax-editbar": "LRNWebComponents/hax-editbar#^0.1.0",
     "vaadin-upload": "vaadin/vaadin-upload#^1.1.4",
     "lrnapp-fab-menu": "LRNWebComponents/lrnapp-fab-menu#^0.0.1",
-    "csv-render": "LRNWebComponents/csv-render#^0.0.3"
+    "csv-render": "LRNWebComponents/csv-render#^0.0.3",
+    "lrndesign-stepper": "LRNWebComponents/lrndesign-stepper#^0.0.5"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
