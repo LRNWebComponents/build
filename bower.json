@@ -45,7 +45,8 @@
     "csv-render": "LRNWebComponents/csv-render#^0.0.3",
     "lrndesign-stepper": "LRNWebComponents/lrndesign-stepper#^0.0.5",
     "time-elements": "github/time-elements#^0.6.1",
-    "lrn-table": "LRNWebComponents/lrn-table#^0.1.0"
+    "lrn-table": "LRNWebComponents/lrn-table#^0.1.0",
+    "app-route": "PolymerElements/app-route#^2.0.0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
