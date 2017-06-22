@@ -44,12 +44,17 @@
     "lrnapp-fab-menu": "LRNWebComponents/lrnapp-fab-menu#^0.0.1",
     "csv-render": "LRNWebComponents/csv-render#^0.0.3",
     "lrndesign-stepper": "LRNWebComponents/lrndesign-stepper#^0.0.5",
-    "time-elements": "github/time-elements#^0.6.1"
+    "time-elements": "github/time-elements#^0.6.1",
+    "lrn-table": "LRNWebComponents/lrn-table#^0.1.0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
     "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
     "web-component-tester": "^4.0.0",
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "resolutions": {
+    "paper-tooltip": "^1.1.4",
+    "paper-spinner": "^1.2.1"
   }
 }
