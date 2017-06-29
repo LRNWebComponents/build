@@ -47,7 +47,8 @@
     "time-elements": "github/time-elements#^0.6.1",
     "lrn-table": "LRNWebComponents/lrn-table#^0.1.0",
     "app-route": "PolymerElements/app-route#^2.0.0",
-    "elmsln-loading": "LRNWebComponents/elmsln-loading#^0.0.4"
+    "elmsln-loading": "LRNWebComponents/elmsln-loading#^0.0.4",
+    "iron-resizable-behavior": "PolymerElements/iron-resizable-behavior#^2.0.1"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
