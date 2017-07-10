@@ -50,7 +50,7 @@
     "elmsln-loading": "LRNWebComponents/elmsln-loading#^0.0.4",
     "iron-resizable-behavior": "PolymerElements/iron-resizable-behavior#^2.0.1",
     "lrnsys-layout": "LRNWebComponents/lrnsys-layout#^0.0.5",
-    "lrnsys-button": "LRNWebcomponents/lrnsys-button#^0.0.6"
+    "lrnsys-button": "LRNWebcomponents/lrnsys-button#^0.0.7"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
