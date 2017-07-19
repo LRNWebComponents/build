@@ -50,14 +50,14 @@
     "elmsln-loading": "LRNWebComponents/elmsln-loading#^0.0.4",
     "iron-resizable-behavior": "PolymerElements/iron-resizable-behavior#^2.0.1",
     "lrnsys-layout": "LRNWebcomponents/lrnsys-layout#^0.1.5",
-    "lrnsys-button": "LRNWebcomponents/lrnsys-button#^0.2.0",
+    "lrnsys-button": "LRNWebcomponents/lrnsys-button#^0.2.1",
     "paper-toast": "PolymerElements/paper-toast#^2.0.0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
     "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
     "web-component-tester": "^4.0.0",
-    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.24"
   },
   "resolutions": {
     "webcomponentsjs": "^0.7.24"
