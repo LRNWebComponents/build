@@ -22,7 +22,7 @@
     "iron-list": "PolymerElements/iron-list#^1.4.6",
     "iron-icons": "PolymerElements/iron-icons#^1.2.1",
     "iron-iconset-svg": "PolymerElements/iron-iconset-svg#^1.1.1",
-    "paper-card": "PolymerElements/paper-card#^1.1.6",
+    "paper-card": "PolymerElements/paper-card#^2.0.0",
     "google-webfont-loader": "printminion/google-webfont-loader#^1.6.27",
     "lrndesign-dialog": "LRNWebComponents/lrndesign-dialog#^0.0.1",
     "paper-menu-button": "PolymerElements/paper-menu-button#^1.5.2",
