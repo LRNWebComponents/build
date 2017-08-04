@@ -51,7 +51,9 @@
     "iron-resizable-behavior": "PolymerElements/iron-resizable-behavior#^2.0.1",
     "lrnsys-layout": "LRNWebcomponents/lrnsys-layout#^0.1.6",
     "lrnsys-button": "LRNWebcomponents/lrnsys-button#^0.3.1",
-    "paper-toast": "PolymerElements/paper-toast#^2.0.0"
+    "paper-toast": "PolymerElements/paper-toast#^2.0.0",
+    "paper-input": "LRNWebComponents/paper-input#feature/selection",
+    "lrnsys-comment": "LRNWebcomponents/lrnsys-comment#^0.0.2"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
