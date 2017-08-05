@@ -2,7 +2,7 @@
   "name": "build",
   "main": "index.html",
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.9.1",
+    "polymer": "Polymer/polymer#^1.9.3",
     "lrn-icons": "LRNWebComponents/lrn-icons#^1.0.12",
     "lrn-icon": "LRNWebComponents/lrn-icon#^1.0.0",
     "lrndesign-card": "LRNWebComponents/lrndesign-card",
@@ -46,7 +46,7 @@
     "lrndesign-stepper": "LRNWebComponents/lrndesign-stepper#^0.0.5",
     "time-elements": "github/time-elements#^0.6.1",
     "lrn-table": "LRNWebComponents/lrn-table#^0.1.0",
-    "app-route": "PolymerElements/app-route#^2.0.0",
+    "app-route": "PolymerElements/app-route#^2.0.1",
     "elmsln-loading": "LRNWebComponents/elmsln-loading#^0.0.4",
     "iron-resizable-behavior": "PolymerElements/iron-resizable-behavior#^2.0.1",
     "lrnsys-layout": "LRNWebcomponents/lrnsys-layout#^0.1.6",
