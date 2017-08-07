@@ -53,7 +53,8 @@
     "lrnsys-button": "LRNWebcomponents/lrnsys-button#^0.3.1",
     "paper-toast": "PolymerElements/paper-toast#^2.0.0",
     "paper-input": "LRNWebComponents/paper-input#feature/selection",
-    "lrnsys-comment": "LRNWebcomponents/lrnsys-comment#^0.0.2"
+    "lrnsys-comment": "LRNWebcomponents/lrnsys-comment#^0.0.2",
+    "lrnsys-render-html": "LRNWebcomponents/lrnsys-render-html#^0.0.2"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
