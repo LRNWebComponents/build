@@ -55,7 +55,8 @@
     "paper-input": "LRNWebComponents/paper-input#feature/selection",
     "lrnsys-comment": "LRNWebcomponents/lrnsys-comment#^0.0.2",
     "lrnsys-render-html": "LRNWebcomponents/lrnsys-render-html#^0.0.2",
-    "paper-toggle-button": "PolymerElements/paper-toggle-button#^2.0.0"
+    "paper-toggle-button": "PolymerElements/paper-toggle-button#^2.0.0",
+    "paper-badge": "PolymerElements/paper-badge#^2.0.0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
