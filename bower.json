@@ -50,7 +50,7 @@
     "elmsln-loading": "LRNWebComponents/elmsln-loading#^0.0.4",
     "iron-resizable-behavior": "PolymerElements/iron-resizable-behavior#^2.0.1",
     "lrnsys-layout": "LRNWebcomponents/lrnsys-layout#^0.1.7",
-    "lrnsys-button": "LRNWebcomponents/lrnsys-button#^0.5.3",
+    "lrnsys-button": "LRNWebcomponents/lrnsys-button#^0.5.4",
     "paper-toast": "PolymerElements/paper-toast#^2.0.0",
     "paper-input": "LRNWebComponents/paper-input#feature/selection",
     "lrnsys-comment": "LRNWebcomponents/lrnsys-comment#^0.0.2",
