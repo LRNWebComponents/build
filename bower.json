@@ -67,6 +67,8 @@
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.24"
   },
   "resolutions": {
-    "webcomponentsjs": "^0.7.24"
+    "webcomponentsjs": "^0.7.24",
+    "polymer": "^1.2.4",
+    "iron-ajax": "^1.4.4"
   }
 }
