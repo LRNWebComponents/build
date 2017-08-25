@@ -1,0 +1,10 @@
+{
+  "name": "sample-app",
+  "scripts": {
+    "postinstall": "bower_components/build/bower-postinstall.js"
+  },
+  "devDependencies": {
+    "glob": "^7.1.2",
+    "replace-in-file": "^2.6.2"
+  }
+}
