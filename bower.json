@@ -58,7 +58,8 @@
     "paper-toggle-button": "PolymerElements/paper-toggle-button#^2.0.0",
     "paper-badge": "PolymerElements/paper-badge#^2.0.0",
     "iron-selector": "PolymerElements/iron-selector#^2.0.0",
-    "iron-pages": "PolymerElements/iron-pages#^2.0.0"
+    "iron-pages": "PolymerElements/iron-pages#^2.0.0",
+    "lrn-button": "LRNWebcomponents/lrn-button#^0.6.0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
@@ -68,7 +69,8 @@
   },
   "resolutions": {
     "webcomponentsjs": "^0.7.24",
-    "polymer": "^1.2.4",
-    "iron-ajax": "^1.4.4"
+    "polymer": "^1.9.3",
+    "iron-ajax": "^1.4.4",
+    "paper-input": "feature/selection"
   }
 }
