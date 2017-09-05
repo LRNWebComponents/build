@@ -12,7 +12,7 @@
     "lrndesign-blockquote": "LRNWebComponents/lrndesign-blockquote#^0.0.8",
     "lrndesign-contentsequencer": "LRNWebComponents/lrndesign-contentsequencer#^0.0.2",
     "lrndesign-panelcard": "LRNWebComponents/lrndesign-panelcard#^0.0.14",
-    "lrn-vocab": "LRNWebComponents/lrn-vocab#^0.0.8",
+    "lrn-vocab": "LRNWebComponents/lrn-vocab#^1.0.0",
     "lrn-aside": "LRNWebComponents/lrn-aside#^0.0.10",
     "lrn-content": "LRNWebComponents/lrn-content#^0.0.1",
     "lrn-page": "LRNWebComponents/lrn-page#^0.0.1",
@@ -72,7 +72,6 @@
   },
   "resolutions": {
     "polymer": "^1.9.3",
-    "iron-ajax": "^1.4.4",
     "paper-input": "feature/selection",
     "iron-a11y-announcer": "^v2.0.0-lrn"
   }
