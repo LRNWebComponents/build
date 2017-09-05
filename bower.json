@@ -3,6 +3,7 @@
   "main": "index.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^1.9.3",
+    "paper-avatar": "LRNWebComponents/paper-avatar#^1.0.4",
     "lrn-icons": "LRNWebComponents/lrn-icons#^1.0.12",
     "lrn-icon": "LRNWebComponents/lrn-icon#^1.0.0",
     "lrndesign-card": "LRNWebComponents/lrndesign-card",
@@ -70,13 +71,9 @@
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.24"
   },
   "resolutions": {
-    "webcomponentsjs": "^0.7.24",
     "polymer": "^1.9.3",
     "iron-ajax": "^1.4.4",
     "paper-input": "feature/selection",
-    "hax-editbar": "0.1.0",
-    "hax-editable": "0.0.3",
-    "hax-ajax": "^0.0.5",
-    "hax-behaviors": "^0.0.14"
+    "iron-a11y-announcer": "^v2.0.0-lrn"
   }
 }
