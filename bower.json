@@ -41,7 +41,7 @@
     "paper-icon-button": "PolymerElements/paper-icon-button#^2.0.0",
     "hax-editbar": "LRNWebComponents/hax-editbar#^0.1.0",
     "vaadin-upload": "vaadin/vaadin-upload#^1.1.4",
-    "lrnapp-fab-menu": "LRNWebcomponents/lrnapp-fab-menu#^1.0.0",
+    "lrnapp-fab-menu": "LRNWebcomponents/lrnapp-fab-menu#^1.0.1",
     "csv-render": "LRNWebComponents/csv-render#^0.0.3",
     "lrndesign-stepper": "LRNWebComponents/lrndesign-stepper#^0.0.5",
     "time-elements": "github/time-elements#^0.6.1",
