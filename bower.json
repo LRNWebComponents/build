@@ -26,7 +26,7 @@
     "paper-card": "PolymerElements/paper-card#^2.0.0",
     "google-webfont-loader": "printminion/google-webfont-loader#^1.6.27",
     "lrndesign-dialog": "LRNWebComponents/lrndesign-dialog#^0.0.1",
-    "paper-menu-button": "PolymerElements/paper-menu-button#^1.5.2",
+    "paper-menu-button": "PolymerElements/paper-menu-button#^2.0.0",
     "hax-behaviors": "LRNWebComponents/hax-behaviors#^1.0.0",
     "paper-dialog-scrollable": "PolymerElements/paper-dialog-scrollable#^2.0.0",
     "neon-animation": "PolymerElements/neon-animation#^2.0.0",
@@ -61,7 +61,8 @@
     "iron-pages": "PolymerElements/iron-pages#^2.0.0",
     "lrn-button": "LRNWebcomponents/lrn-button#^0.6.0",
     "iron-input": "PolymerElements/iron-input#^2.0.1",
-    "iron-a11y-announcer": "LRNWebComponents/iron-a11y-announcer#2.0.0-lrn"
+    "iron-a11y-announcer": "LRNWebComponents/iron-a11y-announcer#2.0.0-lrn",
+    "iron-dropdown": "PolymerElements/iron-dropdown#^2.0.0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
