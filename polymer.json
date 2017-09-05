@@ -11,8 +11,7 @@
     },
     "css": {"minify": true},
     "html":{"minify": true},
-    "insertPrefectLinks": true,
-    "addServiceWorker": true,
+    "insertPrefetchLinks": true,
     "bundle": true
   }]
 }
