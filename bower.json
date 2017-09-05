@@ -52,7 +52,7 @@
     "lrnsys-layout": "LRNWebcomponents/lrnsys-layout#^0.1.7",
     "lrnsys-button": "LRNWebcomponents/lrnsys-button#^0.6.0",
     "paper-toast": "PolymerElements/paper-toast#^2.0.0",
-    "paper-input": "LRNWebComponents/paper-input#feature/selection",
+    "paper-input": "PolymerElements/paper-input#^2.0.2",
     "lrnsys-comment": "LRNWebcomponents/lrnsys-comment#^0.0.2",
     "lrnsys-render-html": "LRNWebcomponents/lrnsys-render-html#^0.0.2",
     "paper-toggle-button": "PolymerElements/paper-toggle-button#^2.0.0",
