@@ -60,7 +60,8 @@
     "iron-selector": "PolymerElements/iron-selector#^2.0.0",
     "iron-pages": "PolymerElements/iron-pages#^2.0.0",
     "lrn-button": "LRNWebcomponents/lrn-button#^0.6.0",
-    "iron-input": "PolymerElements/iron-input#^2.0.1"
+    "iron-input": "PolymerElements/iron-input#^2.0.1",
+    "iron-a11y-announcer": "LRNWebComponents/iron-a11y-announcer#^v2.0.0-lrn"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
