@@ -12,6 +12,8 @@
     "css": {"minify": true},
     "html":{"minify": true},
     "insertPrefetchLinks": true,
-    "bundle": true
+    "bundle": true,
+    "addPushManifest": true,
+    "addServiceWorker": true
   }]
 }

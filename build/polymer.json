@@ -21,7 +21,9 @@
         "minify": true
       },
       "insertPrefetchLinks": true,
-      "bundle": true
+      "bundle": true,
+      "addPushManifest": true,
+      "addServiceWorker": true
     }
   ],
   "lint": {
