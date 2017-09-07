@@ -70,7 +70,6 @@ var options = {
     /<link .*paper-ripple.html\W>/g,
     /<link .*iron-meta.html\W>/g,
     /<link .*iron-autogrow-textarea.html\W>/g,
-    /<link .*iron-pages.html\W>/g,
     /<link .*app-header.html\W>/g,
     /<link .*app-header-layout.html\W>/g,
     /<link .*app-box.html\W>/g,
@@ -80,6 +79,9 @@ var options = {
     /<link .*app-drawer.html\W>/g,
     /<link .*app-drawer-layout.html\W>/g,
     /<link .*iron-media-query.html\W>/g,
+    /<link .*iron-location.html\W>/g,
+    /<link .*iron-query-params.html\W>/g,
+    /<link .*app-location.html\W>/g,
     /<link .*paper-textarea.html\W>/g
   ],
   to: ' '
