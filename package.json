@@ -1,0 +1,29 @@
+{
+  "name": "build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bower-empty.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "glob-fs": "^0.1.7"
+  },
+  "devDependencies": {
+    "glob-fs": "^0.1.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LRNWebComponents/build.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LRNWebComponents/build/issues"
+  },
+  "homepage": "https://github.com/LRNWebComponents/build#readme"
+}
