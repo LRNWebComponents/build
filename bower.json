@@ -45,10 +45,10 @@
     "time-elements": "github/time-elements#^0.6.1",
     "lrn-table": "LRNWebComponents/lrn-table#^0.1.0",
     "app-route": "PolymerElements/app-route#^2.0.1",
-    "elmsln-loading": "LRNWebComponents/elmsln-loading#^0.0.4",
+    "elmsln-loading": "LRNWebComponents/elmsln-loading#^1.0.0",
     "iron-resizable-behavior": "PolymerElements/iron-resizable-behavior#^2.0.1",
-    "lrnsys-layout": "LRNWebcomponents/lrnsys-layout#^1.0.6",
-    "lrnsys-button": "LRNWebcomponents/lrnsys-button#^0.6.0",
+    "lrnsys-layout": "LRNWebComponents/lrnsys-layout#^1.2.3",
+    "lrnsys-button": "LRNWebComponents/lrnsys-button#^1.0.0",
     "paper-toast": "PolymerElements/paper-toast#^2.0.0",
     "paper-input": "PolymerElements/paper-input#^2.0.2",
     "lrnsys-render-html": "LRNWebcomponents/lrnsys-render-html#^0.0.2",
@@ -56,7 +56,7 @@
     "paper-badge": "PolymerElements/paper-badge#^2.0.0",
     "iron-selector": "PolymerElements/iron-selector#^2.0.0",
     "iron-pages": "PolymerElements/iron-pages#^2.0.1",
-    "lrn-button": "LRNWebcomponents/lrn-button#^0.6.0",
+    "lrn-button": "LRNWebComponents/lrn-button#^0.6.0",
     "iron-input": "PolymerElements/iron-input#^2.0.1",
     "iron-a11y-announcer": "LRNWebComponents/iron-a11y-announcer#2.0.0-lrn",
     "iron-dropdown": "PolymerElements/iron-dropdown#^2.0.0",
@@ -67,7 +67,8 @@
     "md-extra-icons": "LRNWebcomponents/md-extra-icons#^0.0.4",
     "paper-slider": "PolymerElements/paper-slider#^2.0.2",
     "iron-a11y-keys-behavior": "PolymerElements/iron-a11y-keys-behavior#^2.0.1",
-    "iron-validatable-behavior": "PolymerElements/iron-validatable-behavior#^2.0.0"
+    "iron-validatable-behavior": "PolymerElements/iron-validatable-behavior#^2.0.0",
+    "iron-ajax": "PolymerElements/iron-ajax#^2.0.6"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
