@@ -82,6 +82,7 @@
   "resolutions": {
     "polymer": "^1.9.3",
     "paper-input": "feature/selection",
-    "iron-a11y-announcer": "^v2.0.0-lrn"
+    "iron-a11y-announcer": "^v2.0.0-lrn",
+    "webcomponentsjs": "^0.7.24"
   }
 }
