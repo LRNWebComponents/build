@@ -4,7 +4,7 @@
   "dependencies": {
     "polymer": "Polymer/polymer#^2.3.1",
     "paper-avatar": "LRNWebComponents/paper-avatar#^1.0.4",
-    "lrn-icons": "LRNWebComponents/lrn-icons#^1.0.12",
+    "lrn-icons": "LRNWebcomponents/lrn-icons#^1.2.0",
     "lrn-icon": "LRNWebComponents/lrn-icon#^1.0.1",
     "lrndesign-card": "LRNWebComponents/lrndesign-card#^1.0.1",
     "lrndesign-drawer": "LRNWebComponents/lrndesign-drawer#^1.0.0",
