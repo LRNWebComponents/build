@@ -47,7 +47,7 @@
     "app-route": "PolymerElements/app-route#^2.0.1",
     "elmsln-loading": "LRNWebcomponents/elmsln-loading#^1.0.1",
     "iron-resizable-behavior": "PolymerElements/iron-resizable-behavior#^2.0.1",
-    "lrnsys-layout": "LRNWebcomponents/lrnsys-layout#^1.4.2",
+    "lrnsys-layout": "LRNWebcomponents/lrnsys-layout#^1.4.3",
     "lrnsys-button": "LRNWebcomponents/lrnsys-button#^1.3.1",
     "paper-toast": "PolymerElements/paper-toast#^2.0.0",
     "paper-input": "PolymerElements/paper-input#^2.0.2",
