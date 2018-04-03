@@ -2,7 +2,7 @@
   "name": "build",
   "main": "index.html",
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.11.0",
+    "polymer": "Polymer/Polymer#^2.6.0",
     "paper-avatar": "LRNWebComponents/paper-avatar#^1.0.4",
     "lrn-icons": "LRNWebcomponents/lrn-icons#^1.2.0",
     "lrn-icon": "LRNWebComponents/lrn-icon#^1.0.1",
