@@ -79,7 +79,8 @@
     "iron-image": "PolymerElements/iron-image#^2.1.2",
     "media-behaviors": "LRNWebcomponents/media-behaviors#^1.1.2",
     "dropdown-select": "LRNWebcomponents/dropdown-select#^1.0.1",
-    "paper-checkbox": "PolymerElements/paper-checkbox#^2.0.3"
+    "paper-checkbox": "PolymerElements/paper-checkbox#^2.0.3",
+    "paper-swatch-picker": "PolymerElements/paper-swatch-picker#^2.2.0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
