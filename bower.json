@@ -4,8 +4,8 @@
   "dependencies": {
     "polymer": "Polymer/Polymer#^1.11.3",
     "paper-avatar": "LRNWebComponents/paper-avatar#^1.0.4",
-    "lrn-icons": "LRNWebcomponents/lrn-icons#^1.3.0",
-    "lrn-icon": "LRNWebcomponents/lrn-icon#^1.2.0",
+    "lrn-icons": "LRNWebcomponents/lrn-icons#^1.4.0",
+    "lrn-icon": "LRNWebcomponents/lrn-icon#^1.3.0",
     "lrndesign-card": "LRNWebComponents/lrndesign-card#^1.0.1",
     "lrndesign-drawer": "LRNWebComponents/lrndesign-drawer#^1.0.0",
     "lrndesign-blockquote": "LRNWebComponents/lrndesign-blockquote#^1.0.0",
