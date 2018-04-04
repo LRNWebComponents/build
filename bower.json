@@ -76,7 +76,9 @@
     "schema-behaviors": "LRNWebcomponents/schema-behaviors#^0.1.0",
     "video-player": "LRNWebcomponents/video-player#^1.7.3",
     "media-image": "LRNWebcomponents/media-image#^0.0.10",
-    "iron-image": "PolymerElements/iron-image#^2.1.2"
+    "iron-image": "PolymerElements/iron-image#^2.1.2",
+    "media-behaviors": "LRNWebcomponents/media-behaviors#^1.1.2",
+    "dropdown-select": "LRNWebcomponents/dropdown-select#^1.0.1"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
