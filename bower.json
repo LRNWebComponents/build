@@ -29,7 +29,7 @@
     "paper-dialog-scrollable": "PolymerElements/paper-dialog-scrollable#^2.0.0",
     "neon-animation": "PolymerElements/neon-animation#^2.2.1",
     "iron-scroll-threshold": "PolymerElements/iron-scroll-threshold#^2.0.0",
-    "wikipedia-query": "LRNWebComponents/wikipedia-query#^1.0.0",
+    "wikipedia-query": "LRNWebcomponents/wikipedia-query#^1.3.0",
     "lrndesign-abbreviation": "LRNWebComponents/lrndesign-abbreviation#^0.0.2",
     "lrndesign-buttondialog": "LRNWebComponents/lrndesign-buttondialog#^0.0.1",
     "lrndesign-contactcard": "LRNWebComponents/lrndesign-contactcard#^0.0.2",
