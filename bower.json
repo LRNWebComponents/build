@@ -71,7 +71,7 @@
     "paper-tabs": "PolymerElements/paper-tabs#^2.1.0",
     "iron-behaviors": "PolymerElements/iron-behaviors#^2.1.1",
     "a11y-behaviors": "LRNWebcomponents/a11y-behaviors#^1.0.1",
-    "hax-body-behaviors": "LRNWebcomponents/hax-body-behaviors#^1.9.0",
+    "hax-body-behaviors": "LRNWebcomponents/hax-body-behaviors#^1.10.0",
     "responsive-grid": "LRNWebcomponents/responsive-grid#^0.2.0",
     "schema-behaviors": "LRNWebcomponents/schema-behaviors#^0.1.0",
     "video-player": "LRNWebcomponents/video-player#^1.7.3",
