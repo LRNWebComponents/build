@@ -14,7 +14,7 @@
     "lrn-aside": "LRNWebComponents/lrn-aside#^1.0.0",
     "lrn-content": "LRNWebComponents/lrn-content#^1.0.0",
     "lrn-page": "LRNWebComponents/lrn-page#^1.0.0",
-    "oer-schema": "LRNWebComponents/oer-schema#^1.0.0",
+    "oer-schema": "LRNWebComponents/oer-schema#^1.0.4",
     "lrndesign-avatar": "LRNWebcomponents/lrndesign-avatar#^1.1.0",
     "materializecss-styles": "LRNWebcomponents/materializecss-styles#^1.2.0",
     "iron-iconset": "PolymerElements/iron-iconset#^2.1.0",
