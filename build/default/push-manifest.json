@@ -804,6 +804,34 @@
       "type": "document",
       "weight": 1
     },
+    "bower_components/lrndesign-chart/lrndesign-bar.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/chartist-render/chartist-render.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/chartist-render/chartist-lib.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/chartist/dist/chartist.min.css": {
+      "type": "style",
+      "weight": 1
+    },
+    "bower_components/chartist/dist/chartist.min.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "bower_components/lrndesign-chart/lrndesign-line.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/lrndesign-chart/lrndesign-pie.html": {
+      "type": "document",
+      "weight": 1
+    },
     "bower_components/hax-body/hax-store.html": {
       "type": "document",
       "weight": 1
@@ -844,6 +872,18 @@
       "type": "document",
       "weight": 1
     },
+    "bower_components/simple-colors/simple-colors.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/simple-colors/simple-colors-behaviors.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/iron-a11y-keys/iron-a11y-keys.html": {
+      "type": "document",
+      "weight": 1
+    },
     "bower_components/responsive-grid/responsive-grid-row.html": {
       "type": "document",
       "weight": 1
@@ -857,10 +897,6 @@
       "weight": 1
     },
     "bower_components/responsive-grid/responsive-grid-clear.html": {
-      "type": "document",
-      "weight": 1
-    },
-    "bower_components/iron-a11y-keys/iron-a11y-keys.html": {
       "type": "document",
       "weight": 1
     },
@@ -1128,6 +1164,10 @@
       "type": "document",
       "weight": 1
     },
+    "bower_components/hax-body/hax-icons.html": {
+      "type": "document",
+      "weight": 1
+    },
     "bower_components/hax-body/hax-app-picker.html": {
       "type": "document",
       "weight": 1
@@ -1221,6 +1261,62 @@
       "weight": 1
     },
     "bower_components/video-player/video-player.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/a11y-media-player/a11y-media-group.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/a11y-media-player/a11y-media-behaviors.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/a11y-media-player/a11y-media-player.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/a11y-media-player/screenfull-lib.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/screenfull/dist/screenfull.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "bower_components/a11y-media-player/a11y-media-play-button.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/a11y-media-player/a11y-media-controls.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/a11y-media-player/a11y-media-button.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/a11y-media-player/a11y-media-transcript.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/a11y-media-player/a11y-media-transcript-cue.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/simple-search/simple-search-content.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/a11y-media-player/a11y-media-utility.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/a11y-media-player/a11y-media-transcript-controls.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/simple-search/simple-search.html": {
       "type": "document",
       "weight": 1
     },
@@ -1352,7 +1448,7 @@
       "type": "document",
       "weight": 1
     },
-    "bower_components/aframe-player/assets/aframe/aframe.min.js": {
+    "bower_components/aframe-player/assets/aframe/aframe-v0.8.2.min.js": {
       "type": "script",
       "weight": 1
     },
@@ -1445,6 +1541,146 @@
       "weight": 1
     },
     "bower_components/lrndesign-contentblock/lrndesign-contentblock.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/lrndesign-gallerycard/lrndesign-gallerycard.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/lrndesign-course-banner/lrndesign-course-banner.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/lrnsys-comment/lrnsys-comment.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/moment-element/moment-element.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/moment-element/moment-import.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/moment/min/moment.min.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "bower_components/lrnsys-comment/lrnsys-comment-list.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-table.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-active-item-behavior.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-table-scroll-behavior.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-sizer.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-table-cell.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-cell-click-behavior.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-table-outer-scroller.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-table-header-footer.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-focusable-cell-container-behavior.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-table-focus-trap.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-table-row.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-row-details-behavior.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-templatizer.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-data-provider-behavior.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-selection-behavior.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-keyboard-navigation-behavior.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-column-reordering-behavior.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/iron-list-behavior.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-column.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-array-data-provider-behavior.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-dynamic-columns-behavior.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-sort-behavior.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-filter-behavior.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-column-group.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-filter.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-sorter.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/vaadin-grid/vaadin-grid-selection-column.html": {
       "type": "document",
       "weight": 1
     }
