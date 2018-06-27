@@ -1452,6 +1452,18 @@
       "type": "script",
       "weight": 1
     },
+    "bower_components/stop-note/stop-note.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/stop-note/stop-icon.html": {
+      "type": "document",
+      "weight": 1
+    },
+    "bower_components/image-compare-slider/image-compare-slider.html": {
+      "type": "document",
+      "weight": 1
+    },
     "bower_components/word-count/word-count.html": {
       "type": "document",
       "weight": 1

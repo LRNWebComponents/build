@@ -14,6 +14,14 @@
     "html":{"minify": true},
     "insertPrefetchLinks": true,
     "addPushManifest": true,
-    "addServiceWorker": true
+    "addServiceWorker": true,
+    "includeDependencies": [
+      "bower_components/ace-builds/src-min-noconflict/ace.js",
+      "bower_components/ace-builds/src-min-noconflict/ext-searchbox.js",
+      "bower_components/ace-builds/src-min-noconflict/mode-html.js",
+      "bower_components/ace-builds/src-min-noconflict/theme-monokai.js",
+      "bower_components/ace-builds/src-min-noconflict/worker-html.js",
+      "bower_components/wave-player/art.jpg"
+    ]
   }]
 }
